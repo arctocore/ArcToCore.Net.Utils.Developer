@@ -1,0 +1,9 @@
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\bin\Debug\ArcToCore.Net.Utils.Core.dll
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\bin\Debug\ArcToCore.Net.Utils.Core.pdb
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\obj\Debug\ArcToCore.Net.Utils.Core.csprojAssemblyReference.cache
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\obj\Debug\ArcToCore.Net.Utils.Core.csproj.CoreCompileInputs.cache
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\obj\Debug\ArcToCore.Net.Utils.Core.csproj.CopyComplete
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\obj\Debug\ArcToCore.Net.Utils.Core.dll
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Net.Utils.Core\obj\Debug\ArcToCore.Net.Utils.Core.pdb
