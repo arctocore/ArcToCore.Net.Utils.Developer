@@ -40,3 +40,4 @@ C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Core.Console\ob
 C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Core.Console\obj\Debug\netcoreapp3.1\ArcToCore.Core.Console.dll
 C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Core.Console\obj\Debug\netcoreapp3.1\ArcToCore.Core.Console.pdb
 C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Core.Console\obj\Debug\netcoreapp3.1\ArcToCore.Core.Console.genruntimeconfig.cache
+C:\Users\z6soa\Downloads\ArcToCore.Net.Utils.Developer\ArcToCore.Core.Console\obj\Debug\netcoreapp3.1\ArcToCore.Core.Console.csprojAssemblyReference.cache
